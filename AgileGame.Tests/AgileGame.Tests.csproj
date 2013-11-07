@@ -7,8 +7,8 @@
     <ProjectGuid>{65ABE82F-2E82-4534-8CA0-796F8460D552}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AgileGames.Tests</RootNamespace>
-    <AssemblyName>AgileGames.Tests</AssemblyName>
+    <RootNamespace>AgileGame.Tests</RootNamespace>
+    <AssemblyName>AgileGame.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
